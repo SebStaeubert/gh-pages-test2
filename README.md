@@ -5,3 +5,8 @@ Beispiel: HITO
  * github: https://github.com/hitontology/hitontology.eu
 ## Notizen
   * Es gibt Tools, die Markdown in HTML wandeln, z.B. markdown
+Links:
+
+[MII Homepage](https://www.medizininformatik-initiative.de/)
+
+<a href=https://www.medizininformatik-initiative.de/>MII Homepage</a>
