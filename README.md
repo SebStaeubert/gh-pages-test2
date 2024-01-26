@@ -6,6 +6,8 @@ Beispiel: HITO
 ## Notizen
   * Es gibt Tools, die Markdown in HTML wandeln, z.B. markdown
   * Pages aktivieren und konfigurieren ![image](https://github.com/SebStaeubert/gh-pages-test/assets/11329281/e5058c54-a347-4549-b781-756771b6714d)
+  * Standard-Ordner /(root) oder /docs
+    * Anpassungen über eigene Activity
 
 
 ## Beispiele Markdown
@@ -13,4 +15,4 @@ Links:
 
 [MII Homepage](https://www.medizininformatik-initiative.de/)
 
-<a href=https://www.medizininformatik-initiative.de/>MII Homepage</a>
+<a href=https://www.medizininformatik-initiative.de>MII Homepage</a>
