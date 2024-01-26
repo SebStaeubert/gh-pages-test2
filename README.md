@@ -12,6 +12,13 @@ Beispiel: HITO
   * _config.yml mit Parametern, falls Markdown (Dialekt) nicht korrekt dargestellt wird, z.B. GFM
   * Index bzw. Readme wird durch Pages-Build nach interner Priorisierung: index.html, index.md, Readme.md
   * relative Link auf .md Dateien funktionieren auch -> werden durch entspr. HTML-Dateien beim Build ersetzt
+  * R-Doku
+    * man kann in R konfigurieren -> ist aber nur halb-cool, da generierte Dateien
+    * github-Action, die aus dem R-Code dann dynamisch .rd-Dateien erzeugt und daraus md oder html macht...
+  * Themes sind möglich: https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/adding-a-theme-to-your-github-pages-site-using-jekyll
+    *  Der Link taucht nur beim Default Pages... auf
+    *  Theme wird in _config.yml definiert und ist darüber auch im Custom Workflow (github actions) verfügbar
+    *  Konrads Empfehlung: hyde
 
 
 
