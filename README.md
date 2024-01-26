@@ -15,4 +15,4 @@ Links:
 
 [MII Homepage](https://www.medizininformatik-initiative.de/)
 
-<a href=https://www.medizininformatik-initiative.de>MII Homepage</a>
+<a href="https://www.medizininformatik-initiative.de">MII Homepage</a>
