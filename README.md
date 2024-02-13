@@ -1,13 +1,16 @@
 # gh-pages-test
-Markdown Cheat Sheet, z.B. https://oddmuse.org/wiki/Markdown_Cheat_Sheet, oder [markdown.land ](https://markdown.land/markdown-code-block)
+ * Markdown Cheat Sheet, z.B. https://oddmuse.org/wiki/Markdown_Cheat_Sheet, oder [markdown.land ](https://markdown.land/markdown-code-block).
+ * [Markdown highlighted Notes](https://github.com/orgs/community/discussions/16925)
 
 ## Beispiele
-HITO
+HITO (KH)
   * Homepage: https://www.hitontology.eu/ bzw.
   * github: https://github.com/hitontology/hitontology.eu
-BaseTRACE
+BaseTRACE (KH, BS)
   * Homepage:
   * github: https://github.com/medizininformatik-initiative/BaseTRACE
+DQ-Summary-Reports (CD)
+  * https://imise.github.io/DQ-Summary-Reports/
 
 ## Notizen
   * Es gibt Tools, die Markdown in HTML wandeln, z.B. markdown
@@ -18,16 +21,19 @@ BaseTRACE
   * _config.yml mit Parametern, falls Markdown (Dialekt) nicht korrekt dargestellt wird, z.B. GFM
   * Index bzw. Readme wird durch Pages-Build nach interner Priorisierung: index.html, index.md, Readme.md
   * relative Link auf .md Dateien funktionieren auch -> werden durch entspr. HTML-Dateien beim Build ersetzt
-  * R-Doku
-    * man kann in R konfigurieren -> ist aber nur halb-cool, da generierte Dateien
-    * github-Action, die aus dem R-Code dann dynamisch .rd-Dateien erzeugt und daraus md oder html macht...
-  * Themes sind möglich: https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/adding-a-theme-to-your-github-pages-site-using-jekyll
-    *  Der Link taucht nur beim Default Pages... auf
-    *  Theme wird in _config.yml definiert und ist darüber auch im Custom Workflow (github actions) verfügbar
-    *  Konrads Empfehlung: hyde
+### R-Doku
+  * man kann in R konfigurieren -> ist aber nur halb-cool, da generierte Dateien
+  * github-Action, die aus dem R-Code dann dynamisch .rd-Dateien erzeugt und daraus md oder html macht...
+### Themes
+  * [Adding a theme to your GitHub Pages site using Jekyll](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/adding-a-theme-to-your-github-pages-site-using-jekyll)
+    * Der Link taucht nur beim Default Pages... auf
+  * [GitHub Pages Supported Themes](https://pages.github.com/themes/), z.B. [Leap day](https://github.com/pages-themes/leap-day)
+  * Theme wird in _config.yml definiert und ist darüber auch im Custom Workflow (github actions) verfügbar
+  * Konrads Empfehlung für ein Theme mit Navigation: [hyde](https://github.com/poole/hyde)
+  * [Ein Design zur GitHub Pages-Website mit Jekyll hinzufügen](https://docs.github.com/de/pages/setting-up-a-github-pages-site-with-jekyll/adding-a-theme-to-your-github-pages-site-using-jekyll#adding-a-jekyll-theme-in-your-sites-_configyml-file)
 
 
-## Beispiele Markdown
+## Beispiele Markdown / Sandbox
 Links:
   * Link mit Markdown: [MII Homepage](https://www.medizininformatik-initiative.de/)
   * Link mit HTML: <a href="https://www.medizininformatik-initiative.de">MII Homepage</a>
