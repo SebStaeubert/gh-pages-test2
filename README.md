@@ -11,6 +11,8 @@ BaseTRACE (KH, BS)
   * github: https://github.com/medizininformatik-initiative/BaseTRACE
 DQ-Summary-Reports (CD)
   * https://imise.github.io/DQ-Summary-Reports/
+FHIR4FAIR
+  * https://github.com/IMISE/fhir4fair-swat4hcls2024
 
 ## Notizen
   * Es gibt Tools, die Markdown in HTML wandeln, z.B. markdown
