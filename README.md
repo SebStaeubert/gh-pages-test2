@@ -3,15 +3,18 @@
  * [Markdown highlighted Notes](https://github.com/orgs/community/discussions/16925)
 
 ## Beispiele
-HITO (KH)
+HITO (KH, Menu, Logos)
   * Homepage: https://www.hitontology.eu/ bzw.
   * github: https://github.com/hitontology/hitontology.eu
+
 BaseTRACE (KH, BS)
   * Homepage:
   * github: https://github.com/medizininformatik-initiative/BaseTRACE
-DQ-Summary-Reports (CD)
+
+DQ-Summary-Reports (CD, Theme)
   * https://imise.github.io/DQ-Summary-Reports/
-FHIR4FAIR
+
+FHIR4FAIR (ML, Menu, Logos, Tabellen)
   * https://github.com/IMISE/fhir4fair-swat4hcls2024
 
 ## Notizen
