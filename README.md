@@ -16,6 +16,9 @@ DQ-Summary-Reports (CD, Theme)
 
 FHIR4FAIR (ML, Menu, Logos, Tabellen)
   * https://github.com/IMISE/fhir4fair-swat4hcls2024
+Linux for Health
+  * Homepage: https://linuxforhealth.github.io/docs/index.html
+  * github: https://github.com/LinuxForHealth/docs
 
 ## Notizen
   * Es gibt Tools, die Markdown in HTML wandeln, z.B. markdown
